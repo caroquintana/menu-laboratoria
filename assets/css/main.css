@@ -21,6 +21,8 @@ nav{
 	flex-basis: 100%;
 	justify-content: center;
 	flex-flow: row wrap;
+	flex-direction: column;
+    align-items: center;
 }
 
 ul{
@@ -42,6 +44,9 @@ a{
 	color: #fff;
 	padding: 20px;
 	border-left: 1px solid;
+}
+a:hover{
+	background-color: #DA6163;
 }
 
 .ocultar{
