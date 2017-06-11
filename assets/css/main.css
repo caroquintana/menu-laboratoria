@@ -44,59 +44,6 @@ a{
 	border-left: 1px solid;
 }
 
-/*
-
-
-.contenedor{
-	width: 90%
-	max-width: 1000px;
-	margin: auto;
-
-	display : flex;
-	flex-flow: row wrap; //si el elemento no cabe en una linea, pasa abajo 
+.ocultar{
+	display: none
 }
-
-nav{
-	background-color: #D9797A;
-	width: 100%;
-	padding: 20px;
-
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-	flex-direction: row; //es lo mismo que poner flex-flow : row wrap
-	flex-wrap: wrap; //es lo mismo que poner flex-flow : row wrap
-}
-
-
-
-a{
-	color: #fff;
-
-}
-
-
-
-header nav{
-	width: 60%;
-//flexbox
-	display: flex;
-	flex-wrap: wrap;
-	align-items: center;
-	margin: 0 auto;
-}
-
-header nav a{
-	padding: 10px;
-	text-align: center;
-	flex-grow: 2;
-	margin-right: 31px;
-	color: white;
-}
-
-a {
-    border: 1px solid;
-    margin-top: 2px;
-}
-
-*/
